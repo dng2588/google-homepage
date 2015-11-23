@@ -1,3 +1,3 @@
 # google-homepage
 Google Homepage Replica
-This project will duplicate Google's Homepage
+https://github.com/dng2588/google-homepage.git
